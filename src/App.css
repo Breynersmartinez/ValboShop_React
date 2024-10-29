@@ -8,7 +8,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #e786ca;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,9 +23,14 @@
 }
 
 .heart {
-  color: #ff0000;
+  color: #ecebeb;
 }
 
 .small {
   font-size: 0.75rem;
+}
+
+.button_back {
+  border-radius: 50px;
+  background: #db56af;
 }

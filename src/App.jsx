@@ -4,22 +4,26 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="https://breynersmartinez.github.io/ValboriaShop/Images/1000081182_preview_rev_1%20(1).png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Valboria<span className="heart"> Tienda Online </span> React
         </p>
         <p className="small">
-          Edit <code>src/App.jsx</code> and save to reload.
+          Has <code> tus compras de la forma mas sencilla </code> y segura.
         </p>
+       
         <p>
-          <a
+        <button className='button_back'>
+        <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://breynersmartinez.github.io/ValboriaShop/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Volver a pagina de inicio
           </a>
+          </button>
+         
         </p>
       </header>
     </div>
